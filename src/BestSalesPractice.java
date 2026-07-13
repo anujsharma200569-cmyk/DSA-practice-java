@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class BestSalesPractice {
 
     public static void main(String[] args) {
